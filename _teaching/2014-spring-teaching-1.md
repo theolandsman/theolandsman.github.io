@@ -1,9 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant: Government 501, Analysis of Poltiical Data"
 collection: teaching
-type: "Undergraduate course"
+primary instructor: "Mark Richardson"
+type: "Masters course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Georgetown University, Department of Government"
 date: 2014-01-01
 location: "City, Country"
 ---
