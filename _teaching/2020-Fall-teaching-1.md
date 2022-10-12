@@ -3,13 +3,13 @@ title: "Teaching Assistant: Government 501, Analysis of Poltiical Data"
 collection: teaching
 primary instructor: "Mark Richardson"
 type: "Masters course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2020-fall-teaching-1
 venue: "Georgetown University, Department of Government"
-date: 2014-01-01
-location: "City, Country"
+date: 2020-09-01
+location: "Washington, DC"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught incoming masters students how to use R with both tidyverse and base R exercises. 
 
 Heading 1
 ======
