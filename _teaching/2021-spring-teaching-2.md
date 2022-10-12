@@ -1,11 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assisant: GOVT 233, Political Parties"
 collection: teaching
-type: "Workshop"
+primary instructor: Hans Noel
+type: "Undergraduate"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Georgetown University, Department of Government"
+date: 2021-01-01
+location: "Washington, DC"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
