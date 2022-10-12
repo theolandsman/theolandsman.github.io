@@ -10,11 +10,5 @@ location: "Washington, DC"
 ---
 
 Taught a lab session in which incoming PhD students were introduced to the basics of statistical analysis with political data in STATA and R. 
-Heading 1
-======
 
-Heading 2
-======
 
-Heading 3
-======
