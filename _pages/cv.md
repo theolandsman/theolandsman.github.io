@@ -78,4 +78,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Serving the Georgetown Alliance of Graduate Employee (GAGE) Union as Lead Organizer for Social Sciences.
+* Facilitated the adoption of new payroll and database management systems for the Union.
+* Co-lead committee which drafted the GAGE Constitution and Bylaws. 
