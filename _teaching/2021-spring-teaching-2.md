@@ -9,8 +9,7 @@ date: 2021-01-01
 location: "Washington, DC"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+Facilitated in-class discussion and ran a complex voting exercise and simulation that ran for the duration of the course. 
 Heading 1
 ======
 
