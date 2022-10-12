@@ -10,6 +10,7 @@ location: "Washington, DC"
 ---
 
 Facilitated in-class discussion and ran a complex voting exercise and simulation that ran for the duration of the course. 
+
 Heading 1
 ======
 
