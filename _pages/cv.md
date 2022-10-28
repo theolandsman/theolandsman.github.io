@@ -19,8 +19,9 @@ Work experience
 ======
 * May 2020 to Present: Research and Teaching Assistant
   *  Georgetown University - Washington, DC
-  *  Worked with Professor Mark Richardson teaching masters students statistical and data science methods.This involved mentoring them on statistical concepts as well as guiding them through the process of learning the coding language R and the tidyverse group of R packages.
+  *  TAed for Professor Mark Richardson teaching masters students statistical and data science methods.This involved mentoring them on statistical concepts as well as guiding them through the process of learning the coding language R and the tidyverse group of R packages.
   *  Worked with Professor Hans Noel on cleaning survey data from CCES and the Voter Study Group. This project involved compiling preliminary analysis and implementing a conjoint design for the CCES data.
+  *  TAed for Professor Joel Simmons teaching a discussion section for Introduction to Comparative Politics. This course dealt extensively with variation in government systems and International Political Economy.
   * Worked as Professor Noel’s teaching assistant on a course on political parties to undergraduates. Final project for the class involved a voting simulation which required large scale data collection and visualization of student preferences. Currently working with Professor Noel as a Research Assistant doing literature searches, social network analysis, and voting simulation.
   * Currently working with Professor Michael Bailey on projects involving social media and political ideology and ranked choice voting.
 * January 2016 to March 2019: Research Manager
