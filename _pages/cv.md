@@ -79,6 +79,7 @@ Teaching
   
 Service and leadership
 ======
+* Served as Junior and then Senior Instructor for incoming PhD student 'math camp' which ensures that incoming students have the baseline quantitative skills to succeed in the Government Department Quantitative Methods Sequence in August 2021 and 2022. 
 * Serving the Georgetown Alliance of Graduate Employee (GAGE) Union as Lead Organizer for Social Sciences.
 * Facilitated the adoption of new payroll and database management systems for the Union.
 * Co-lead committee which drafted the GAGE Constitution and Bylaws. 
